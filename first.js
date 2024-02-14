@@ -24,3 +24,16 @@ let c =5; //number
 let d = "5"; //string
 
 console.log("c !== d", c !== d);
+
+//conditional Statements
+
+let mode = "black";
+let color;
+
+if(mode === "dark"){
+    color = "black"
+}else {
+    color = "white"
+}
+
+console.log(color);
