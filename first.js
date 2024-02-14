@@ -1,3 +1,5 @@
+//Object in javascript
+
 const student = {
     fullName: "Hariom Harsh",
     age:20,
@@ -16,3 +18,9 @@ console.log("a + b =", a + b);
 console.log("a - b" , a-b);
 console.log("a * b", a*b);
 console.log("a / b", a/b);
+
+//comparison Operators
+let c =5; //number
+let d = "5"; //string
+
+console.log("c !== d", c !== d);
